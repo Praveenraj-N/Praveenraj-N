@@ -4,27 +4,11 @@
                      Username: Praveenraj-N
 ========================================================== -->
 
-<!-- ===================== CUSTOM BANNER ===================== -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="art/header-dark.svg">
+  <img alt="Praveenraj N" src="art/header-light.svg">
+</picture>
 
-<!-- ===================== CUSTOM BANNER ===================== -->
-
-<p align="center">
-  <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3A1A1A2E%2C50%3A9D4EDD%2C100%3AFF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AF8BBD0%2C50%3AEF93C4%2C100%3AFF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18"
-    />
-    <img
-      width="100%"
-      src="https://capsule-render.vercel.app/api?type=waving&amp;color=0%3AEF93C4%2C100%3AFF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=FFFFFF&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18"
-      alt="Praveenraj N Profile Banner"
-    />
-  </picture>
-</p>
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
