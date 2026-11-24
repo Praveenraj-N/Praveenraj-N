@@ -4,13 +4,23 @@
                      Username: Praveenraj-N
 ========================================================== -->
 
-<!-- ===================== BANNER ===================== -->
+<!-- ===================== CUSTOM BANNER ===================== -->
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1A1A2E,50:EF93C4,100:FF69B4&height=220&section=header&animation=fadeIn"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FCE4EC,50:F8BBD0,100:EF93C4&height=220&section=header&animation=fadeIn"/>
-    <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F8BBD0,100:FF69B4&height=220&section=header" alt="Profile Banner"/>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="./art/banner-dark.svg"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="./art/banner-light.svg"
+    />
+    <img
+      src="./art/banner-light.svg"
+      alt="Praveenraj N - Software Developer"
+      width="100%"
+    />
   </picture>
 </p>
 
