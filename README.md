@@ -10,20 +10,19 @@
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="./art/banner-dark.svg"
+      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1A1A2E,50:9D4EDD,100:FF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="./art/banner-light.svg"
+      srcset="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F8BBD0,50:EF93C4,100:FF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn&amp;fontAlignY=35&amp;desc=Software%20Developer%20%7C%20AI%20Enthusiast&amp;descAlignY=55&amp;descSize=18"
     />
     <img
-      src="./art/banner-light.svg"
-      alt="Praveenraj N - Software Developer"
       width="100%"
+      src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:EF93C4,100:FF69B4&amp;height=250&amp;section=header&amp;text=Praveenraj%20N&amp;fontSize=55&amp;fontColor=ffffff&amp;animation=fadeIn"
+      alt="Praveenraj N Profile Banner"
     />
   </picture>
 </p>
-
 <!-- ===================== INTRO ===================== -->
 
 <h1 align="center">
